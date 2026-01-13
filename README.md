@@ -1,6 +1,6 @@
 # Nihal Machhi
 
-Hi, I’m Nihal. I’m a AI/ML Software Developer 
+Hi, I’m Nihal. I’m a AI/ML Software Development Engineer (SDE)
 
 Here are a few facts about me:
 
